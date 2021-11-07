@@ -44,6 +44,10 @@ Ejercicios Impares Capitulo 2:
 
 VIDEOS
 
+Ejercicio 37 capitulo 2:
+
+https://www.youtube.com/watch?v=RMjP-CuI58E
+
 CONCLUSIONES
 
 1. La notacion cientifica simlifica la lectura de cantidades muy grandes o muy pequeñas.
