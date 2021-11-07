@@ -13,3 +13,6 @@ OBJETIVOS:
 3. Distinguir la diferencia entre carga,voltaje y resistencia.
 
 MARCO TEÓRICO:
+![](https://github.com/Diego-Laz/Los-soldados-de-cristo/blob/main/unidades.png)
+![](https://github.com/Diego-Laz/Los-soldados-de-cristo/blob/main/mediciones.png)
+![](https://github.com/Diego-Laz/Los-soldados-de-cristo/blob/main/resistores.png)
