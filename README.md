@@ -52,6 +52,10 @@ Ejercicio 21 capitulo 2:
 
 https://www.youtube.com/watch?v=Cedko6g1GXc
 
+Ejercicio 15 capitulo 1:
+
+https://www.youtube.com/watch?v=ZprHdIFbOrc
+
 CONCLUSIONES
 
 1. La notacion cientifica simlifica la lectura de cantidades muy grandes o muy pequeñas.
