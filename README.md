@@ -41,6 +41,11 @@ Ejercicios Impares Capitulo 2:
 ![](https://github.com/Diego-Laz/Los-soldados-de-cristo/blob/main/cap%207.png)
 ![](https://github.com/Diego-Laz/Los-soldados-de-cristo/blob/main/cap%208%202.png)
 ![](https://github.com/Diego-Laz/Los-soldados-de-cristo/blob/main/cap%209.png)
+![](https://github.com/Diego-Laz/Los-soldados-de-cristo/blob/main/cap%2010.png)
+![](https://github.com/Diego-Laz/Los-soldados-de-cristo/blob/main/cap%2011.png)
+![](https://github.com/Diego-Laz/Los-soldados-de-cristo/blob/main/cap%2012.png)
+![](https://github.com/Diego-Laz/Los-soldados-de-cristo/blob/main/cap%2013.png)
+![](https://github.com/Diego-Laz/Los-soldados-de-cristo/blob/main/cap%2014.png)
 
 VIDEOS
 
