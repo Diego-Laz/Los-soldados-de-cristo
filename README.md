@@ -58,11 +58,11 @@ https://www.youtube.com/watch?v=ZprHdIFbOrc
 
 CONCLUSIONES
 
-1. La notacion cientifica simlifica la lectura de cantidades muy grandes o muy pequeñas.
+1. La notacion cientifica simplifica la lectura de cantidades muy grandes o muy pequeñas.
 
-2. Cuando se desea realizar la medicion de valores como: la resistencia, el voltaje o la corriente, se debe cologar el aparato de medicion en la posicion correcta dependiendo el   valor que se desea medir.
+2. Cuando se desea realizar la medicion de valores como: la resistencia, el voltaje o la corriente, se debera colocar el aparato de medicion en la posicion correcta dependiendo el valor que se desea medir.
 
-3. El valor exacto de los resistores fijos se puede identificar con el codigo de colores.
+3. El valor exacto de los resistores fijos se puede identificar mediante el codigo de colores.
 
 BIBLIOGRAFÍA
 
