@@ -1,10 +1,10 @@
-# Universidad De Las Fuerzas Armadas  Espe
+# Universidad De Las Fuerzas Armadas "ESPE"
 
 # Fundamentos de Circuitos Eléctricos 
 # NRC:10149
 # Tarea 1
 
- # integrantes:
+ # Integrantes:
  Carlos Allauca
  
  Kerson Guarnizo
